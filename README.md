@@ -1,2 +1,2 @@
-# dev-resources
-i want some resources for dev
+# dev-resource
+i want some resource for dev
