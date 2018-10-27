@@ -1,0 +1,106 @@
+1. WORDPRESS
+
+WordPress is a monster in the world of content management systems (software that lets you write, edit, and publish content on the web). It got its notoriety being used to power blogs for high-profile brands like CNN, Reuters, and the Wall Street Journal. However, WordPress’s plugins and customization make it a workhorse for web developers, so nowadays entire websites, ecommerce sites, and web portals are all built using WordPress.
+
+2. MAMP OR WAMPSERVER
+
+When you build a website with WordPress, the WordPress program (along with your site’s pages and content) are usually stored on a web server via a web hosting company. However, for development and testing purposes, you might want to install WordPress on your own local (home or office) computer. If you’re using a Mac, MAMP is a program that gives you the tools you need to run WordPress on your own machine. But what if you’re running a Windows computer? No problem. Look no further than WampServer, a program that serves the same purpose but works with Windows.
+
+3. GIT
+
+Git is a version control system, a tool you use to track changes made in a website’s code over time. If something goes wrong with your code, you can then use Git to return to a previous version of the site and find the problem. Version control systems are an essential part of web development, and Git is an industry standard.
+
+4. VISUAL STUDIO CODE
+
+Visual Studio Code is a source code editor available for Windows, Mac, and Linux machines. It allows you to debug code (identify and remove errors) directly from its on-screen editor. It also has built-in Git commands (handy for tracking your code’s changes without exiting the editor) and smart completion (an efficiency tool for writing code), and it’s fully customizable.
+
+5. JQUERY
+
+JavaScript is a programming language used to create interactive elements on websites. As you use JavaScript, you’ll find that many common tasks—like animating image sliders or changing the color of an element with an action like a mouse click—can require lines of code that you likely won’t have memorized. jQuery is a free collection of JavaScript plugins and extensions that can help you streamline those common tasks into reusable, single line methods.
+
+6. BOOTSTRAP
+
+Bootstrap is a front-end web framework—a program that has HTML, CSS, and JavaScript templates for building websites. In particular, Bootstrap has resources to help you with your project’s performance in mobile environments (smartphones and tablets), which is no longer something you can brush aside as an afterthought.
+
+Applications
+
+Applications are computer programs created to perform specific functions. (Think word processors, web browsers, and image editing tools.) The following are all useful applications for developers— and they barely scrape the surface, giving you an idea of just how much is out there to make your job easier without cutting into your bottom line.
+
+7. ATOM
+
+Atom is a highly customizable text editor, but even out of the box it comes with enough features to keep you busy. Atom works across platforms, has smart autocomplete (useful for writing code), allows you to work in multiple sections of your screen, and supports a number of programming languages, including JavaScript, Ruby, and Ruby on Rails.
+
+8. ITERM2
+
+If you work on a Mac, you’ll sometimes need to use command line features, a direct way of interacting via text commands with your computer’s operating system. Normally this is done through the Mac’s terminal program, but the built-in Mac terminal can be a bit spartan. That’s where iTerm2 comes in handy. iTerm2 is a terminal emulator that functions like the Mac terminal, but with an impressive array of extra bells and whistles. There’s a split panes feature (each pane showing a different session with inactive sessions being dimmed), a robust search feature, an autocomplete that keeps track of any word that’s ever appeared in your window, and a paste history that lets you revisit recently copied and pasted text, to name a few features.
+
+9. EVERNOTE
+
+When you’re in the thick of working on a computer—with multiple browsers open and just as many trains of thought going—it’s easy for information and ideas to get lost. Evernote collects any notes you take—including screenshots and pictures of handwritten notes—and organizes them in one place synced across all your devices. It also has a powerful search feature that lets you search everything, even your handwritten words.
+
+10. INVISION
+
+In the design and development phase of a website, there will be times when you’ll want to share your work with your client. Being able to put together prototypes with the same software used by big name companies like Adobe, AT&T, Sony, and Viacom sounds like a good (but expensive) option, right? In reality, you can do that for free using InVision, the same prototyping tool used by those companies and many more.
+
+11. Cyfe
+Cyfe is a free-to-use online business dashboard that lets you keep track of a website’s uptime (the amount of time it’s been online without interruptions), social rankings, and analytics. Cyfe also lets you export that data in PNG, JPEG, PDF, and CSV formats for your own use or to share with others.
+
+12. F.LUX
+
+As a web developer you can work anywhere and anytime, which means you might want to get some work done in the evening hours. That kind of flexibility is a major perk of being a developer—but the glare of a computer monitor in your face in a nighttime room isn’t ideal. f.lux will adapt your computer display to the lighting in your room at all times, and this is a crucial resource if you’re going to be spending long hours in front of a monitor. Now, just remember to take frequent breaks to give your eyes a rest!
+
+Browser Extensions
+
+The web browser you use to access the web (Chrome, Safari, Firefox, etc.) can also be turned into a developer tool by way of browser extensions—downloadable add-ons that bring custom features to your browser. Here’s a look at some free browser extensions specifically applicable to web design.
+
+13. WAPPALYZER
+
+Say you come across a wildly impressive site with features that you’d like to incorporate into a project you’re working on, but you can’t quite figure out how the site pulled it off. Wappalyzer is a browser extension that uncovers the technologies used on websites, so you can see what makes those features run and use those tricks in your own work. Wappalyzer will detect content management systems (like WordPress), ecommerce platforms (Shopify, Drupal Commerce, Etsy, etc.), web frameworks (Ruby on Rails), and more.
+
+14. WHATFONT OR FOUNT
+
+What happens when you run across a font you love but can’t quite place? Not keen on spending time trying to track it down? The WhatFont browser extension allows you to inspect web fonts just by hovering over them, and it detects the services the fonts come from, too, so you can nab them for yourself. WhatFont is only compatible with Chrome and Safari, so if you’re using another browser you can try Fount.
+
+15. PERFECTPIXEL
+
+When you’re working with images in HTML and CSS, it’s possible to lose some of the fidelity of your original design. Perfectpixel lets you overlay your source JPG or PNG images over your web content, so you can compare the images pixel for pixel and create an HTML page that looks exactly like what you had in mind.
+
+16. STYLEBOT
+
+Have you ever seen a site and wished you could make one tiny change— either due to special reading needs or because a different font would simply look better?? The Stylebot browser extension lets you do just that. And for developers, it also lets you see how changes to CSS affect a website’s appearance for future reference in your own projects. Using a sidebar full of basic and advanced CSS options, you can change the appearance of sites you visit and even sync your saved styles across the machines you use.
+
+17. CSS3 GENERATOR
+
+CSS3 Generator is a browser extension that generates CSS3 (the latest version of CSS) code for a number of design features (text shadowing, columns, gradients, etc.). All you have to do is copy the generated code into your CSS and the feature will be in place.
+
+18. RESPONSIVE WEB DESIGN TESTER
+
+The Responsive Web Design Tester browser extension allows you to test your website’s appearance on mobile devices—without having to get out your phone or tablet. With this extension you can quickly preview what your website looks like at the dimensions used by smartphones and tablets.
+
+Websites
+
+One free resource that can be easy to overlook are the very things developers spend their time creating…websites! Never underestimate the wealth of free information waiting just a Google search away. Here are a few great websites to bookmark if you’re looking to up your developer game.
+
+19. CODROPS
+
+Codrops is a design and development blog with articles and tutorials about the latest web tips and trends. Check out their Tutorial section for how-tos on common web development techniques, and their Playground for plugins and articles. They also have a Blueprints section with sample website concepts and layouts, and an extensive CSS reference page.
+
+20. DZONE
+
+DZone is an online community where web developers can share helpful links with one another. It’s also home to thousands of articles, PDF cheat sheets on different tech topics, and guides to development techniques, platforms, and applications. Sign up for an account and get free access to everything DZone has to offer.
+
+21. STACK OVERFLOW
+
+The free sharing of tips, tricks, advice, and information is a huge part of successful web development. Stack Overflow is an online community where over 7 million programmers congregate to help each other with questions and answers. Take a minute to sign up and join the conversation!
+
+22. UNHEAP
+
+Remember jQuery, that free collection of JavaScript plugins and extensions? jQuery is invaluable, but can be unwieldy. That’s where Unheap comes in: It organizes, categorizes, thumbnails, and tags jQuery’s plugins and extensions so you can find them easily.
+
+23. GITHUB
+
+GitHub is a repository hosting service where you can store projects you’re working on, collaborate with other users, and use all of Git’s command line features, but with the option of using GitHub’s web-based graphical interface. GitHub is free to use for public and open source projects.
+
+24. BONSAI FREELANCE RATE EXPLORER
+
+Freelancing is exciting! Work on your own terms, make your own schedule, and…set your own rates? That part can be tricky. Fortunately, there’s Bonsai Freelance Rate Explorer, a tool that lets you compare freelance web designer and developer rates by experience level, skill, and geography.
